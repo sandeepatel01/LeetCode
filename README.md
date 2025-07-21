@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0001-two-sum) |
+| [0090-subsets-ii](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0090-subsets-ii) |
 | [0721-accounts-merge](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0721-accounts-merge) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0721-accounts-merge) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
