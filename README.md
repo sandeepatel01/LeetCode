@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview.
 | [0039-combination-sum](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0090-subsets-ii) |
 | [0721-accounts-merge](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0721-accounts-merge) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0090-subsets-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
