@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview.
 |  |
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/sandeepatel01/DSA-With-JavaScript/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
